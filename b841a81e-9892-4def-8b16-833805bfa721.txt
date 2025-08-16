@@ -1,0 +1,7 @@
+BOT_TOKEN=8235282590:AAHmmh-Tiii49IGq51r98LdWmmRWFPDhThM
+DATABASE_URL=sqlite:///bot.db
+ADMIN_ID=8467562719
+STRIPE_SECRET_KEY=your_stripe_key
+PAYPAL_CLIENT_ID=your_paypal_id
+PAYPAL_SECRET=your_paypal_secret
+OPENAI_API_KEY=your_openai_key
